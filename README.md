@@ -30,3 +30,6 @@ Remember also to answer all written questions in the exercise, in addition to th
  - [Problem 1 - Making changes to code and using Git (3 points)](Exercise-2.ipynb)
  - [Problem 2 - Monthly average temperatures (5 points)](Exercise-2.ipynb)
  - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
+ 
+ ## making a changed for refresher
+ solving exercise two.
